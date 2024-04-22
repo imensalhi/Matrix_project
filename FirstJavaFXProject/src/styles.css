@@ -1,0 +1,22 @@
+/* styles.css */
+
+#anchorPane {
+    -fx-background-color: #f0f0f0; /* Set the background color of the AnchorPane */
+}
+
+.label {
+    -fx-text-fill: #ffffff; /* Set the text color of the label to white */
+    -fx-font-size: 48px; /* Set the font size of the label */
+    -fx-font-family: "Baskerville Old Face"; /* Set the font family of the label */
+}
+
+.button {
+    -fx-text-fill: #ffffff; /* Set the text color of the buttons */
+    -fx-font-size: 20px; /* Set the font size of the buttons */
+    -fx-font-family: "Arial"; /* Set the font family of the buttons */
+    -fx-background-color: #4CAF50; /* Set the background color of the buttons */
+}
+
+.button:hover {
+    -fx-background-color: #45a049; /* Set the background color of the buttons on hover */
+}
